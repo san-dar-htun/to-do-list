@@ -3,10 +3,10 @@
         <span>{{task.title}}</span>
         <div class="icon">
          <i class="material-icons">
-            delete
+            Delete
         </i>
          <i class="material-icons">
-            favorite
+            Favorite
         </i>
         </div>
   </div>
